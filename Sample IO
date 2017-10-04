@@ -1,0 +1,60 @@
+Welcome to the Gradebook 9000!!!
+
+Please enter the number of students:
+2
+Please enter a student's name:
+Daniel
+Please enter a student's name:
+Lori
+
+The Gradebook 9000 calculates a student's grade
+by calculating their average score for homework,
+tests, and projects.  It then calculates a weighted
+average to obtain their final score.
+
+Please enter the number of homework assignments:
+2
+Please enter the percent of the final grade for homework:
+35
+Please enter the number of tests:
+2
+Please enter the percent of the final grade for tests:
+25
+Please enter the number of projects:
+1
+Please enter the percent of the final grade for projects:
+40
+Homework assignment 1 grade for Daniel:
+65
+Homework assignment 2 grade for Daniel:
+80
+Average homework score for Daniel is 73%.
+Test 1 score for Daniel:
+70
+Test 2 score for Daniel:
+83
+Average test score for Daniel is 77%.
+Project 1 grade for Daniel:
+91
+Average project score for Daniel is 91%.
+Homework assignment 1 grade for Lori:
+96
+Homework assignment 2 grade for Lori:
+93
+Average homework score for Lori is 95%.
+Test 1 score for Lori:
+92
+Test 2 score for Lori:
+94
+Average test score for Lori is 93%.
+Project 1 grade for Lori:
+100
+Average project score for Lori is 100%.
+
+
+Here are the grades:
+
+Daniel	81
+Lori	97
+
+Thank you for using the Gradebook 9000.  Have a nice day!
